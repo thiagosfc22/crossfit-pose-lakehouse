@@ -98,7 +98,7 @@ def main():
     tracked(d, (86, 1636), "TO LAKEHOUSE", title, PAPER, 1.0)
 
     d.line([(88, 1806), (994, 1806)], fill=(58, 66, 78), width=2)
-    d.text((88, 1832), "POSE ESTIMATION   17 KEYPOINTS / FRAME   13.768 ROWS",
+    d.text((88, 1832), "POSE ESTIMATION   17 KEYPOINTS / FRAME   13.804 ROWS",
            font=mono, fill=STEEL)
 
     # --- mark ---------------------------------------------------------------
