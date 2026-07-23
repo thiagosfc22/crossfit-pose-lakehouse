@@ -39,9 +39,9 @@ yolo export model=yolov8x-pose.pt format=torchscript
 ```
 
 `--logo` takes any PNG with an alpha channel. This repo intentionally ships
-without one: if you want the Databricks mark, download it from the
-[Databricks brand assets](https://www.databricks.com/company/newsroom/brand-assets)
-and respect their trademark guidelines. Any other mark works too.
+without one: if you want the Databricks mark, get it from
+[brand.databricks.com](https://brand.databricks.com) and follow their trademark
+guidelines. Any other mark works just as well.
 
 The HUD uses DIN Condensed and SF Mono, which ship with macOS. On Linux the
 scripts fall back to DejaVu/Liberation, or point them anywhere you like:
