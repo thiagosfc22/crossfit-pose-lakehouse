@@ -1,0 +1,8 @@
+*.npz
+*.pt
+*.mp4
+*.mkv
+*.MOV
+!docs/*.jpg
+__pycache__/
+.DS_Store
